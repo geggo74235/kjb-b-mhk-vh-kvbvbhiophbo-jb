@@ -1,0 +1,54 @@
+/**
+* @name TANJIRO 
+* @version Alpha
+* @description KAMADO TANJIRO THEME FOR DISCORD BY REKIBOII
+* @author REKIBOII
+* @invite Ype2ukT7vb
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron');
+:root {
+--background-image: url('https://i.imgur.com/49ykfuJ.jpg');
+--background-image-blur: 0px;
+--background-image-size: contain;
+--background-image-position: center;
+--popout-modal-image: url('https://i.imgur.com/8BvKbBA.jpg');
+--popout-modal-blur: 0px;
+--popout-modal-size: contain;
+--popout-modal-position: center;
+--home-button-image: url('https://i.imgur.com/PL90fxG.jpg');
+--home-button-size: contain;
+--home-button-position: center;
+--serverlist-brightness: 0.3;
+--left-brightness: 0.55;
+--middle-brightness: 0.5;
+--right-brightness: 0.05;
+--popout-modal-brightness: 0.05;
+--gradient-primary: 255,116,41;
+--gradient-secondary: 227,135,27;
+--gradient-direction: 0deg;
+--tint-colour: 255,69,33;
+--tint-brightness: 0.1;
+--window-padding: 11px;
+--window-roundness: 38px;
+--scrollbar-colour: #FF7724D6;
+--link-colour: #F44C4CFF;
+--show-gift-gif-buttons: block;
+--font: 'Orbitron';
+--update-notice-1: none;
+--rs-small-spacing: 1px;
+--rs-medium-spacing: 3px;
+--rs-large-spacing: 21px;
+--rs-small-width: 3px;
+--rs-medium-width: 5px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #15E32FFF;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #00D1DBFF;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+}
